@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-SPX = pd.read_csv("SPX Weekly 2000-2017 (2).csv")
+SPX = pd.read_csv("SPX Weekly 2000-2017.csv")
 
 print(SPX.head(n=5))
 
