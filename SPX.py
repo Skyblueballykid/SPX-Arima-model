@@ -1,11 +1,7 @@
 import numpy as np
 import pandas as pd
-import statsmodels as stsmd
-import matplotlib as mplib
-
 
 SPX = pd.read_csv("SPX Weekly 2000-2017 (2).csv")
-
 
 print(SPX.head(n=5))
 
